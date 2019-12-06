@@ -53,13 +53,13 @@ $("#pic9").click(function(){
 })
 
 $("#pic10").click(function(){
-	$(".mainblack").attr("src","img/xzt.jpg");
+	$(".mainblack").attr("src","img/img/xzt.jpg");
 	$(".black").toggle(100);
 	$(".main").fadeOut(100);
 })
 
 $("#pic11").click(function(){
-	$(".mainblack").attr("src","img/cc.jpg");
+	$(".mainblack").attr("src","img/img/cc.jpg");
 	$(".black").toggle(100);
 	$(".main").fadeOut(100);
 })
